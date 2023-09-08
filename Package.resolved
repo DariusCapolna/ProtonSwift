@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
         "state": {
           "branch": null,
-          "revision": "654d52d30f3dd4592e944c3e0bccb53178c992f6",
-          "version": "4.2.1"
+          "revision": "84e546727d66f1adc5439debad16270d0fdd04e7",
+          "version": "4.2.2"
         }
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "package": "swift-eosio",
-        "repositoryURL": "https://github.com/ProtonProtocol/swift-eosio.git",
+        "repositoryURL": "https://github.com/DariusCapolna/swift-eosio",
         "state": {
           "branch": "master",
           "revision": "12e177127579701cd06aa1b919d1546176f85bcc",
