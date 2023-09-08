@@ -7,7 +7,7 @@
 //
 
 import EOSIO
-import secp256k1
+import secp256k1gm
 import Foundation
 #if os(macOS)
 import AppKit
