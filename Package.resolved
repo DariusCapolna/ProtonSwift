@@ -11,7 +11,7 @@
         }
       },
       {
-        "package": "secp256k1",
+        "package": "secp256k1gm",
         "repositoryURL": "https://github.com/greymass/secp256k1.git",
         "state": {
           "branch": "master",
